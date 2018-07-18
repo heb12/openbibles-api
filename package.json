@@ -1,0 +1,29 @@
+{
+  "name": "heb12-web",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "openbibles": "^1.1.1"
+  },
+  "scripts": {
+      "start": "node index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/heb12/web.git"
+  },
+  "keywords": [
+    "bible"
+  ],
+  "author": "MasterOfTheTiger",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.com/heb12/web/issues"
+  },
+  "homepage": "https://gitlab.com/heb12/web#README"
+}

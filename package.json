@@ -1,7 +1,7 @@
 {
   "name": "heb12-web",
   "version": "0.1.0",
-  "description": "",
+  "description": "A website for Heb12",
   "main": "index.js",
   "dependencies": {
     "openbibles": "^1.1.1"
